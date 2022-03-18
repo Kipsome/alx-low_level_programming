@@ -9,4 +9,4 @@
 int mul(int a, int b)
 {
 return (a+b);
-}[A[C[A[C[B[B[A[C[C[C[C[C[C[ [C[C* b);[B[D[D
+}
